@@ -3,7 +3,7 @@
 
 ---
 
-## Descrciption 📝
+## Description 📝
 
 This repository was created to store the solutions to LeetCode challenges that I have solved over time. For the past few months, I have been trying to develop the habit of solving at least one problem per day, with the goal of keeping my problem-solving and algorithm-building skills sharp.
 
@@ -11,7 +11,7 @@ Although I try to be consistent, I am not always able to solve a problem every d
 
 --- 
 
-## Aviso Importante ⚠️
+## Warning ⚠️
 
 **Not all solutions in this repository were developed entirely by me**. In some cases, I have enlisted the help of artificial intelligence or more experienced users of the platform to understand the logic behind certain problems. Whenever possible, I try to adapt and understand the solutions found so that I can learn from them.
 
