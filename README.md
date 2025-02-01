@@ -9,6 +9,8 @@ This repository was created to store the solutions to LeetCode challenges that I
 
 Although I try to be consistent, I am not always able to solve a problem every day. Sometimes the challenges are too difficult and require more time and effort than I can dedicate at the moment. Other times, lack of time or even laziness get in the way. Still, I try to keep up the practice, as I believe that consistency is the key to continuous improvement.
 
+My leetcode URL account: https://leetcode.com/u/Gustav0_G0mes/
+
 --- 
 
 ## Warning ⚠️
