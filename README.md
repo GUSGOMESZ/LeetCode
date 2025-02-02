@@ -1,8 +1,6 @@
 
 # LeetCode 🎲
 
----
-
 ## Description 📝
 
 This repository was created to store the solutions to LeetCode challenges that I have solved over time. For the past few months, I have been trying to develop the habit of solving at least one problem per day, with the goal of keeping my problem-solving and algorithm-building skills sharp.
